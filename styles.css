@@ -122,8 +122,10 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
-#Mastiff {
-  margin-top: -5%;
+#Mastiff-card-body {
+ padding-top: 0%;
+  
+  
 }
 
 /* phon and tablet rispons */
